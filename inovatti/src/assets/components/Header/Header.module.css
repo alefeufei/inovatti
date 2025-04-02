@@ -1,0 +1,9 @@
+header {
+ background-color: blue; 
+ display: flex;
+}
+
+li{
+    list-style: none;
+    display: flex;
+}
