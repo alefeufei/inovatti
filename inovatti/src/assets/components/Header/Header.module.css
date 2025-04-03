@@ -1,9 +1,10 @@
 header {
- background-color: blue; 
+ background-color: #0E0A31; 
  display: flex;
 }
 
-li{
+.nav-item{
+    color: aliceblue;
     list-style: none;
-    display: flex;
 }
+
