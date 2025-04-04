@@ -1,10 +1,32 @@
 header {
  background-color: #0E0A31; 
- display: flex;
+}
+
+.logo {
+    margin-left: 50px;
+    width: 160px;
+    height: 30px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 35px 20px;
+    align-items: center;
 }
 
 .nav-item{
-    color: aliceblue;
+    color: #fff;
     list-style: none;
+    margin-right: 20px;
+    display: inline;
+    align-items: center;
+    font-weight: 500;
 }
 
+.agendar-visita{
+    background-color: #43BAFF;
+    color: #fff;
+    padding: 15px 25px;
+    
+}
