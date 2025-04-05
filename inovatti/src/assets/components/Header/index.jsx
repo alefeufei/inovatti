@@ -8,7 +8,8 @@ function Header() {
           <img
             src="https://inovattitecnologia.com.br/wp-content/uploads/2020/09/novaLogo2.png"
             alt="Logo Inovatti"
-            className={styles["logo"]}/>
+            className={styles["logo"]}
+          />
         </div>
         <ul>
           <li className={styles["nav-item"]}>Home</li>
